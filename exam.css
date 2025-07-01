@@ -1,0 +1,31 @@
+.a {background-color: green; color: white;}
+
+
+.center {
+    text-align: center;
+}
+th, td {
+    border: 2px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+
+.button{
+    background-color: green;
+    color: white;
+}
+
+.w100{
+    width: 100%;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
